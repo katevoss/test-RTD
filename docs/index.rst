@@ -3,19 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Wagtail documentation
-================================
+Welcome to Wagtail docs
+==========================
 
-==========================
-Brought to you by Catalpa!
-==========================
+Brought to you by Catalpa
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-******************
-Let's get started
-******************
 
 * TOC coming soon
