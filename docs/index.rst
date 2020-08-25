@@ -1,17 +1,19 @@
-.. Wagtail docs documentation master file, created by
-   sphinx-quickstart on Fri Aug 21 14:52:18 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. _editor_manual:
 
-Welcome to Wagtail docs
-==========================
+Using Wagtail: an Editor's guide
+================================
 
-Brought to you by Catalpa
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+This section of the documentation is written for the users of a Wagtail-powered site. That is, the content editors, moderators and administrators who will be running things on a day-to-day basis.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
 
-
-* TOC coming soon
+   intro
+   getting_started
+   finding_your_way_around/index
+   new_pages/index
+   editing_existing_pages
+   documents_images_snippets/index
+   managing_redirects
+   administrator_tasks/index
+   browser_issues
