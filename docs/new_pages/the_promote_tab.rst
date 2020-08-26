@@ -14,7 +14,7 @@ The second, *Promote*, is where you can set all the 'metadata' (data about data!
 * **Show in menus:** Ticking this box will ensure that the page is included in automatically generated menus on your site. Note: A page will only display in menus if all of its parent pages also have *Show in menus* ticked.
 * **Search description:** This field allows you to add text that will be displayed if the page appears in search results. This is especially useful to distinguish between similarly named pages.
 
-.. image:: ../../_static/images/screen26.5_promote_tab.png
+.. image:: ../_static/images/screen26.5_promote_tab.png
 
 .. Note::
     You may see more fields than this in your promote tab. These are just the default fields, but you are free to add other fields to this section as necessary.

@@ -12,7 +12,7 @@ The Dashboard provides information on:
 
 You can return to the Dashboard at any time by clicking the Wagtail logo in the top-left of the screen.
 
-.. image:: ../../_static/images/screen02_dashboard_editor.png
+.. image:: ../_static/images/screen02_dashboard_editor.png
 
 - Clicking the logo returns you to your Dashboard.
 - The stats at the top of the page describe the total amount of content on the CMS (just for fun!).

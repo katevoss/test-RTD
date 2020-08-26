@@ -1,7 +1,7 @@
 The Explorer menu
 ~~~~~~~~~~~~~~~~~
 
-.. image:: ../../_static/images/screen03_explorer_menu.png
+.. image:: ../_static/images/screen03_explorer_menu.png
 
 * Click the Pages button in the sidebar to open the explorer. This allows you to navigate through the sections of the site.
 * Clicking the name of a page will take you to the Explorer page for that section.

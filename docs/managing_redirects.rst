@@ -26,17 +26,17 @@ For both redirects the visitor won't experience a difference when visiting a pag
 Configuring redirects
 _____________________
 
-.. image:: ../_static/images/screen41_redirects_menu_item.png
+.. image:: _static/images/screen41_redirects_menu_item.png
 
 To configure redirects head over to 'Redirects', which can be found in the Settings menu, accessible via the left-hand menu bar.
 
-.. image:: ../_static/images/screen42_redirects_interface.png
+.. image:: _static/images/screen42_redirects_interface.png
 
 * Add a redirect by clicking the *Add redirect* button in the top-right.
 * Search for redirects already configured by entering your search term in the search bar. The results will be automatically updated as you type.
 * Edit the details of a redirect by clicking the URL path in the listing.
 
-.. image:: ../_static/images/screen43_redirects_edit_redirect.png
+.. image:: _static/images/screen43_redirects_edit_redirect.png
 
 * Set *Redirect from* to the URL pattern which is no longer available on your site.
 * Set the *From site* if applicable (for eg: a multisite environment).

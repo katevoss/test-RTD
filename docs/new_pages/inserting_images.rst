@@ -10,7 +10,7 @@ ______________________________________________
 
 Often a specific image field will be used for a main image on a page, or for an image to be used when sharing the page on social media. For the standard page on Torchbox.com, the former is used.
 
-.. image:: ../../_static/images/screen14_add_main_image.png
+.. image:: ../_static/images/screen14_add_main_image.png
 
 * You insert an image by clicking the *Choose an image* button.
 
@@ -28,7 +28,7 @@ When you click the *Choose an image* button you will be presented with a pop-up 
 
 The image below demonstrates finding and  inserting an image that is already present in the CMS image library.
 
-.. image:: ../../_static/images/screen16_selecting_image_from_library.png
+.. image:: ../_static/images/screen16_selecting_image_from_library.png
 
 #. Typing into the search box will automatically display the results below.
 #. Clicking one of the Popular tags will filter the search results by that tag.
@@ -36,7 +36,7 @@ The image below demonstrates finding and  inserting an image that is already pre
 
 **Uploading a new image to the CMS**
 
-.. image:: ../../_static/images/screen17_upload_image.png
+.. image:: ../_static/images/screen17_upload_image.png
 
 #. You must include an image title for your uploaded image
 #. Click the *Choose file* button to choose an image from your computer.
@@ -50,7 +50,7 @@ Images can also be inserted into the body text of a page via the rich text edito
 
 In addition, Wagtail allows you to choose the format of your image.
 
-.. image:: ../../_static/images/screen18_image_format.png
+.. image:: ../_static/images/screen18_image_format.png
 
 #. You can select how the image is displayed by selecting one of the format options.
 #. You must provide specific `alt text <https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#Alternative_text>`_ for your image.
