@@ -1,11 +1,11 @@
-.. _editor_manual:
-
-Using Wagtail: an Editor's guide
-================================
+Welcome to Wagtail
+====================
 
 This section of the documentation is written for the users of a Wagtail-powered site.
 
 .. toctree::
    :maxdepth: 3
 
-   intro
+   part1
+   part2
+   part3
