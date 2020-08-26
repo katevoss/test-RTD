@@ -1,3 +1,0 @@
-Oinsá atu relata problema? 
---------------------------
-

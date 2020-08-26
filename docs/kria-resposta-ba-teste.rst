@@ -21,7 +21,7 @@ Depois kria ka tau konteúdu, admin mos presiza atu tau pergunta inklui resposta
 
 Karik resposta ida ne’e laos resposta ne’ebé los entaun la presiza tau sinal ‘tik’.
 
-.. Warning::
+.. Important::
     Bainhira iha pergunta ida mak la iha resposta ne’ebé los, ka la tau sinal ‘tik’ iha resposta ida, entaun automatikamente ita sei la bele salve ka ‘save’, no labele publika ka ‘publish’ konteúdu ida ne’e. 
 
 .. image:: _static/images/image10.png
