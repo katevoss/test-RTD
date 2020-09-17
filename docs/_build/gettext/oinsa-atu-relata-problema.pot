@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Catalpa dev team
+# This file is distributed under the same license as the Wagtail docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wagtail docs \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-17 12:05-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../oinsa-atu-relata-problema.rst:2
+msgid "Oinsá atu relata problema?"
+msgstr ""
+
+#: ../../oinsa-atu-relata-problema.rst:4
+msgid "Iha parte ida ne’e sei esplika kona-ba oinsá prosesu atu relata problema ruma ne’ebé administradór ka uzuáriu ruma hasoru."
+msgstr ""
+
+#: ../../oinsa-atu-relata-problema.rst:6
+msgid "Bainhira admin hasoru problema ruma ho aplikasaun ASTEROID bele mos problema iha aplikasaun nee rasik ka iha sistema Wagtail, ka karik admin hetan relatóriu husi uzuáriu balun kona ba problema ne’ebé uzuáriu hasoru bainhira uza aplikasaun ASTEROID, nune’e sei ida ne’e akontense, admin sei relata problema refere ho prosesu tuir mai ne’e:"
+msgstr ""
+
+#: ../../oinsa-atu-relata-problema.rst:8
+msgid "Admin sei foti nota kona ba:"
+msgstr ""
+
+#: ../../oinsa-atu-relata-problema.rst:10
+msgid "Problema saida mak akontese? Ezemplu: Uzuáriu labele asesu aplikasaun ASTEROID husi uzuáriu nia telemovel rasik."
+msgstr ""
+
+#: ../../oinsa-atu-relata-problema.rst:11
+msgid "Se mak hetan problema ne’e?. Admin presiza foti naran uzuáriu ne’ebé hasoru problema. Sei ida ne’e akontese ba admin rasik, admin bele relata katak admin rasik mak hasoru problema refere."
+msgstr ""
+
+#: ../../oinsa-atu-relata-problema.rst:12
+msgid "Bainhira ka sa loron ka oras problema ne’e akontese?"
+msgstr ""
+
+#: ../../oinsa-atu-relata-problema.rst:13
+msgid "Imajen/screenshot husi problema. Admin ka uzuáriu presiza foti imajen ka screenshot husi sira nia telemovel ka computador, kona ba problema ne’ebé akontese."
+msgstr ""
+
+#: ../../oinsa-atu-relata-problema.rst:15
+msgid "Informasaun hirak ne’e importante hodi parte enjiñeru bele hatene ho    didiak problema saida mak akontese, nune’e bele rezolve lalais."
+msgstr ""
+
+#: ../../oinsa-atu-relata-problema.rst:17
+msgid "Admin sei kontaktu parte programa (lider ekipa) Catalpa nian hodi relata problema ida ne’e."
+msgstr ""
+
+#: ../../oinsa-atu-relata-problema.rst:19
+msgid "Parte programa Catalpa sei relata problema ne’e ba enjineiru Catalpa."
+msgstr ""

@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Catalpa dev team
+# This file is distributed under the same license as the Wagtail docs package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wagtail docs \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-17 12:05-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../tradusaun-ba-lian.rst:2
+msgid "Tradusaun ba lian"
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:4
+msgid "Atu tau konteúdu ho lian Tetum ka Ingles, ita sei halo hanesan etapa tuir mai:"
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:6
+msgid "Ba iha `Haroman Admin <https://admin.haroman.tl/>`_"
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:8
+msgid "Klik iha “Pages”"
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:12
+msgid "Klik iha rama iha parte “Translatable Roots”."
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:16
+msgid "Klik iha rama iha parte “Asteroid (English)”, bainhira ita iha ona konteúdu Ingles no hakarak traduz ba lian Tetun."
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:20
+msgid "Klik iha konteúdu ida. Ezemplu “All about Covid-19 (English)”."
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:24
+msgid "Tau kursor iha konteúdu ida. Ezemplu “How to identify key symptoms (English)”."
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:26
+msgid "Klik iha rama iha liafuan “Edit In”"
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:28
+msgid "Klik iha “Tetum”"
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:32
+msgid "Ida ne’e sei lori direitamente ba lisaun konteúdu ne’ebé hanesan iha lian Tetum no ita bele hahu halo tradusaun ba konteúdu iha neba."
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:36
+msgid "Karik durante tradusaun, ita hakarak ba fali konteúdu lian Ingles nian:"
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:38
+msgid "Klik iha parte “TRANSLATIONS”"
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:40
+msgid "Iha parte Canonical Page, klik liman-loos (right-clicked) iha títulu konteúdu nian"
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:42
+msgid "Klik iha “Open Link iha New Tab”, hodi versaun Inglés bele mosu iha pájina seluk no sei hafasil atu haree bainhira halo tradusaun."
+msgstr ""
+
+#: ../../tradusaun-ba-lian.rst:46
+msgid "Keta haluha “Save Draft” ka “Publish”, atu rai ka publika konteúdu bainhira halo tradusaun hotu ona."
+msgstr ""

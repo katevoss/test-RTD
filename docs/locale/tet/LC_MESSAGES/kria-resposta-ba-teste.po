@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Catalpa dev team
+# This file is distributed under the same license as the Wagtail docs
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wagtail docs \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-17 12:05-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: ../../kria-resposta-ba-teste.rst:2
+msgid "Kria resposta ba Teste"
+msgstr ""
+
+#: ../../kria-resposta-ba-teste.rst:4
+msgid ""
+"Depois kria ka tau konteúdu, admin mos presiza atu tau pergunta inklui "
+"resposta iha parte Teste ka Test, hanesan etapa tuir mai:"
+msgstr ""
+
+#: ../../kria-resposta-ba-teste.rst:6
+msgid "Ba iha parte “TEST” iha kada konteúdu"
+msgstr ""
+
+#: ../../kria-resposta-ba-teste.rst:8
+msgid "Iha parte “TEST TITLE”, bele hakerek “Test Knowledge”"
+msgstr ""
+
+#: ../../kria-resposta-ba-teste.rst:10
+msgid ""
+"Iha parte “TEST AIM”, bele hakerek “Take a quiz to test your knowledge "
+"and finalise this lesson”"
+msgstr ""
+
+#: ../../kria-resposta-ba-teste.rst:12
+msgid ""
+"Iha parte “TEST DURATION”, bele hili durasaun atu halo teste ida ne’e. "
+"Ezemplu bele hili  “5’ minutu."
+msgstr ""
+
+#: ../../kria-resposta-ba-teste.rst:16
+msgid "Iha parte “TEST CARDS”,"
+msgstr ""
+
+#: ../../kria-resposta-ba-teste.rst:18
+msgid "Hakerek pergunta iha parte “Question”"
+msgstr ""
+
+#: ../../kria-resposta-ba-teste.rst:19
+msgid "Hakerek resposta iha parte “Answers”."
+msgstr ""
+
+#: ../../kria-resposta-ba-teste.rst:20
+msgid ""
+"Karik resposta ida ne’e mak sai hanesan resposta los ka koretu, nune’e "
+"presiza tau sinal ‘tik’ iha parte “Correct” nia okos."
+msgstr ""
+
+#: ../../kria-resposta-ba-teste.rst:22
+msgid ""
+"Karik resposta ida ne’e laos resposta ne’ebé los entaun la presiza tau "
+"sinal ‘tik’."
+msgstr ""
+
+#: ../../kria-resposta-ba-teste.rst:25
+msgid ""
+"Bainhira iha pergunta ida mak la iha resposta ne’ebé los, ka la tau sinal"
+" ‘tik’ iha resposta ida, entaun automatikamente ita sei la bele salve ka "
+"‘save’, no labele publika ka ‘publish’ konteúdu ida ne’e."
+msgstr ""
+
+#: ../../kria-resposta-ba-teste.rst:29
+msgid ""
+"Keta haluha “Save Draft” ka “Publish”, atu rai ka publika konteúdu "
+"bainhira kria hotu ona."
+msgstr ""
+
