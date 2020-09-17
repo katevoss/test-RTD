@@ -1,4 +1,4 @@
-Welcome to Wagtail
+Benvindu ba Wagtail
 ====================
 
 .. toctree::

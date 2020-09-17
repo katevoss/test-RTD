@@ -20,5 +20,5 @@ msgstr ""
 
 #: ../../index.rst:2
 msgid "Benvindu ba Wagtail"
-msgstr "Welcome to Wagtail"
+msgstr "Welcome to Wagtail!!"
 
